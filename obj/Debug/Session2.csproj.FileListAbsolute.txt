@@ -1,0 +1,28 @@
+c:\users\cstc\documents\visual studio 2015\Projects\Session2\Session2\bin\Debug\Session2.exe.config
+c:\users\cstc\documents\visual studio 2015\Projects\Session2\Session2\bin\Debug\Session2.exe
+c:\users\cstc\documents\visual studio 2015\Projects\Session2\Session2\bin\Debug\Session2.pdb
+c:\users\cstc\documents\visual studio 2015\Projects\Session2\Session2\obj\Debug\Session2.csprojResolveAssemblyReference.cache
+c:\users\cstc\documents\visual studio 2015\Projects\Session2\Session2\obj\Debug\Session2.Apply.resources
+c:\users\cstc\documents\visual studio 2015\Projects\Session2\Session2\obj\Debug\Session2.Edit.resources
+c:\users\cstc\documents\visual studio 2015\Projects\Session2\Session2\obj\Debug\Session2.ManageFlight.resources
+c:\users\cstc\documents\visual studio 2015\Projects\Session2\Session2\obj\Debug\Session2.Properties.Resources.resources
+c:\users\cstc\documents\visual studio 2015\Projects\Session2\Session2\obj\Debug\Session2.csproj.GenerateResource.Cache
+c:\users\cstc\documents\visual studio 2015\Projects\Session2\Session2\obj\Debug\Session2.exe
+c:\users\cstc\documents\visual studio 2015\Projects\Session2\Session2\obj\Debug\Session2.pdb
+D:\documents\ITSSB\JolimaJAVIN\Session2\Session2\bin\Debug\Session2.exe.config
+D:\documents\ITSSB\JolimaJAVIN\Session2\Session2\obj\Debug\Session2.exe
+D:\documents\ITSSB\JolimaJAVIN\Session2\Session2\obj\Debug\Session2.pdb
+F:\documents\ITSSB\JolimaJAVIN\Session2\Session2\bin\Debug\Session2.exe.config
+F:\documents\ITSSB\JolimaJAVIN\Session2\Session2\obj\Debug\Session2.exe
+F:\documents\ITSSB\JolimaJAVIN\Session2\Session2\obj\Debug\Session2.pdb
+F:\JOLIMA\documents\ITSSB\JolimaJAVIN\Session2\Session2\bin\Debug\Session2.exe.config
+F:\JOLIMA\documents\ITSSB\JolimaJAVIN\Session2\Session2\obj\Debug\Session2.exe
+F:\JOLIMA\documents\ITSSB\JolimaJAVIN\Session2\Session2\obj\Debug\Session2.pdb
+F:\JOLIMA\documents\ITSSB\JolimaJAVIN\Session2\Session2\bin\Debug\Session2.exe
+F:\JOLIMA\documents\ITSSB\JolimaJAVIN\Session2\Session2\bin\Debug\Session2.pdb
+F:\JOLIMA\documents\ITSSB\JolimaJAVIN\Session2\Session2\obj\Debug\Session2.csprojResolveAssemblyReference.cache
+F:\JOLIMA\documents\ITSSB\JolimaJAVIN\Session2\Session2\obj\Debug\Session2.Apply.resources
+F:\JOLIMA\documents\ITSSB\JolimaJAVIN\Session2\Session2\obj\Debug\Session2.Edit.resources
+F:\JOLIMA\documents\ITSSB\JolimaJAVIN\Session2\Session2\obj\Debug\Session2.ManageFlight.resources
+F:\JOLIMA\documents\ITSSB\JolimaJAVIN\Session2\Session2\obj\Debug\Session2.Properties.Resources.resources
+F:\JOLIMA\documents\ITSSB\JolimaJAVIN\Session2\Session2\obj\Debug\Session2.csproj.GenerateResource.Cache
